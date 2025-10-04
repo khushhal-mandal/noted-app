@@ -7,6 +7,14 @@ This project demonstrates **modern cross-platform app development**, secure user
 
 ---
 
+## 🔗 Backend API
+
+This app uses a custom **Flask API** for user authentication and notes management.  
+You can find the backend here:  
+👉 [Notes API (Flask + AWS Aurora/RDS)](https://github.com/khushhal-mandal/noted.git)
+
+---
+
 ## 🚀 Features
 - 🔐 **User Authentication** – Register, Login, Logout
 - 💾 **Local Storage** – Remembers passwords for auto-login (no full offline sync yet)
@@ -43,10 +51,10 @@ The app supports the following core operations:
 ## 📸 Screenshots
 
 ### 🔑 Login Screen
-<img src="screenshots/login.png" alt="Login Screen" width="300"/>  
+![Login Screen](screenshots/login.png) 
 
 ### 📝 Notes Screen
-<img src="screenshots/notes.png" alt="Notes Screen" width="300"/>  
+![Notes Screen](screenshots/notes.png)
 
 ---
 
