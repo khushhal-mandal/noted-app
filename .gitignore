@@ -1,0 +1,44 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+local.properties
+.DS_Store
+captures/
+build/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Node / JS if used
+node_modules/
+
+# Xcode / iOS
+xcuserdata/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# KMP / multiplatform
+**/build/
+!src/**/build/
+
+# JetBrains / IDE caches
+out/
+*.log
+*.lock
+*.tmp
+*.swp
+
+# Secrets / env files
+.env
+*.keystore
+*.jks
+
+# Mac system files
+*.DS_Store
